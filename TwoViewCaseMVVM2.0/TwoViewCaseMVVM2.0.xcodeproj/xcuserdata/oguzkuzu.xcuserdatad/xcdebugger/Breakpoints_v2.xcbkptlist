@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "959C42E8-249D-4C50-9D16-F35918197A1D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A847394A-5E20-4B56-A5FD-D73AF8844A8F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8619B50C-E05F-4CD5-90BC-58E623E32D23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8619B50C-E05F-4CD5-90BC-58E623E32D23 - 10952311789183c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "8619B50C-E05F-4CD5-90BC-58E623E32D23 - 10952311789183c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "8619B50C-E05F-4CD5-90BC-58E623E32D23 - 10952311789183c6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71738EAD-97B6-4365-8013-EF401A046DEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "555AAB07-75B2-4ED0-8483-BB3CE6765BA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "fetchProducts(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF5DD0C5-DDF1-4B98-B18C-F678EE6F6615"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchProducts(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E79A0D44-FDDC-4480-8EE8-6FE6C6A56F4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchProducts(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEB98928-6319-4A95-B76A-99DE5E84F51D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchProducts(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8EA113AF-0A54-4F47-87BC-D33139465879"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchProducts(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBDC778B-C044-4157-B32D-FADEE156D442"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchProducts(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61357348-DF99-48E7-B80F-A4F7616E3D67"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "fetchProducts(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B51AF29-3027-40C8-A8CE-8F9CA8AF4CF0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchProducts(page:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE01B492-DEB4-45C8-8E0E-5270B9BA12DD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/ViewModels/ProductDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchProductDetails(productId:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF3BBACB-7ADB-4F5B-8427-696B4358F0F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/ViewModels/ProductDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "fetchProductDetails(productId:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EF3BBACB-7ADB-4F5B-8427-696B4358F0F1 - add8100cd08a5a38"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.ProductDetailsViewModel.fetchProductDetails(productId: Swift.Int, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/ViewModels/ProductDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "EF3BBACB-7ADB-4F5B-8427-696B4358F0F1 - 385c90ab39a21ee2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TwoViewCaseMVVM2_0.ProductDetailResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TwoViewCaseMVVM2_0.ProductDetailsViewModel.fetchProductDetails(productId: Swift.Int, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/ViewModels/ProductDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "EF3BBACB-7ADB-4F5B-8427-696B4358F0F1 - b19ffa5517b49f73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Optional&lt;TwoViewCaseMVVM2_0.ProductDetailResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in TwoViewCaseMVVM2_0.ProductDetailsViewModel.fetchProductDetails(productId: Swift.Int, completion: (Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/ViewModels/ProductDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B842CD33-C785-4A22-BE55-B8CA7B75782B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/ViewModels/ProductDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "fetchProductDetails(productId:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AD4BEBA-6C38-450E-9970-137D96D1C359"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "252"
+            endingLineNumber = "252"
+            landmarkName = "starButtonTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2AD4BEBA-6C38-450E-9970-137D96D1C359 - e838afbb56157b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.starButtonTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "365"
+                  endingLineNumber = "365"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "2AD4BEBA-6C38-450E-9970-137D96D1C359 - e838afbb56157b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.starButtonTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "365"
+                  endingLineNumber = "365"
+                  offsetFromSymbolStart = "324">
+               </Location>
+               <Location
+                  uuid = "2AD4BEBA-6C38-450E-9970-137D96D1C359 - e838afbb56157b44"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.starButtonTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "365"
+                  endingLineNumber = "365"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "2AD4BEBA-6C38-450E-9970-137D96D1C359 - e838afbb561578a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.starButtonTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "364"
+                  endingLineNumber = "364"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0ECA6695-57C9-4D21-94ED-7B0EFE656904"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "272"
+            endingLineNumber = "272"
+            landmarkName = "handleTap(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0ECA6695-57C9-4D21-94ED-7B0EFE656904 - 31079746999a8721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "388"
+                  endingLineNumber = "388"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "0ECA6695-57C9-4D21-94ED-7B0EFE656904 - 31079746999a8721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "388"
+                  endingLineNumber = "388"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "0ECA6695-57C9-4D21-94ED-7B0EFE656904 - 31079746999a8721"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "388"
+                  endingLineNumber = "388"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "0ECA6695-57C9-4D21-94ED-7B0EFE656904 - 31079746999a86ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "387"
+                  endingLineNumber = "387"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "0ECA6695-57C9-4D21-94ED-7B0EFE656904 - 31079746999a86ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.handleTap(__C.UITapGestureRecognizer) -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "387"
+                  endingLineNumber = "387"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60DD0607-F673-466B-9747-EA73CCDC49A3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "273"
+            endingLineNumber = "273"
+            landmarkName = "handleTap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8921AE8E-09B9-48AA-A96B-7ADA87596D2E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "274"
+            endingLineNumber = "274"
+            landmarkName = "handleTap(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59AB561C-5810-45B5-9CE0-831E06F50745"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "loadContent(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD2D30F5-8804-4A15-A6BC-584A75870F33"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21544137-4059-4297-AE9B-CD7A6BAA012D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainCustomListCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "init(style:reuseIdentifier:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "21544137-4059-4297-AE9B-CD7A6BAA012D - deb802a405a6f806"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainCustomListCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; TwoViewCaseMVVM2_0.MainCustomListCell"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainCustomListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "2204">
+               </Location>
+               <Location
+                  uuid = "21544137-4059-4297-AE9B-CD7A6BAA012D - deb802a405a6f865"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainCustomListCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; TwoViewCaseMVVM2_0.MainCustomListCell"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainCustomListCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2076">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3482122-1BDD-440B-9AE3-57D3265D156F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "260"
+            endingLineNumber = "260"
+            landmarkName = "starButtonTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B81D6E5-94DD-4714-B8F6-A707ACAE22E3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainCustomGridCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E47730DE-A73C-4233-92E0-6EA8FF8FC512"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainCustomGridCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "init(frame:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F17AAE3F-4CD8-401E-B9DF-A6DA3E309913"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CFB0A7C1-D135-4873-9381-40F865DD8278"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "setUpView()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CFB0A7C1-D135-4873-9381-40F865DD8278 - 5b09e1c7a1fb98e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.setUpView() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "3888">
+               </Location>
+               <Location
+                  uuid = "CFB0A7C1-D135-4873-9381-40F865DD8278 - 5b09e1c7a1fb98e2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.setUpView() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "271"
+                  endingLineNumber = "271"
+                  offsetFromSymbolStart = "3572">
+               </Location>
+               <Location
+                  uuid = "CFB0A7C1-D135-4873-9381-40F865DD8278 - 5b09e1c7a1fb985f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.setUpView() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "3572">
+               </Location>
+               <Location
+                  uuid = "CFB0A7C1-D135-4873-9381-40F865DD8278 - 5b09e1c7a1fb985f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.setUpView() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "266"
+                  endingLineNumber = "266"
+                  offsetFromSymbolStart = "3580">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F2AB089-32F7-42F9-AB99-7C10F84E6D1F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "152"
+            endingLineNumber = "152"
+            landmarkName = "updateLayout()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6F2AB089-32F7-42F9-AB99-7C10F84E6D1F - 2863582e52c83ca6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.updateLayout() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6F2AB089-32F7-42F9-AB99-7C10F84E6D1F - c5715d7a10580ed8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIView) -&gt; () in TwoViewCaseMVVM2_0.MainViewController.updateLayout() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "6F2AB089-32F7-42F9-AB99-7C10F84E6D1F - 2863582e52c83dc3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TwoViewCaseMVVM2_0.MainViewController.updateLayout() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "6F2AB089-32F7-42F9-AB99-7C10F84E6D1F - c5715d7a10580fbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.UIView) -&gt; () in TwoViewCaseMVVM2_0.MainViewController.updateLayout() -&gt; ()"
+                  moduleName = "TwoViewCaseMVVM2.0"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/oguzkuzu/Documents/appTrial/TwoViewCaseMVVM2.0/TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "182"
+                  endingLineNumber = "182"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F7FA28CB-3A6A-4E20-93DE-3DAF317DD55A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "028233E8-73B9-4858-A7A9-B6963AB2DF8B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FF054D3-6FE2-441A-B710-DD923279687C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "53746944-BDB8-46D3-8058-2DE5A981E8BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/Views/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "tableView(_:heightForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DEC85E9-4809-4A09-9A82-5623B3323AA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TwoViewCaseMVVM2.0/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchProductDetails(productId:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
