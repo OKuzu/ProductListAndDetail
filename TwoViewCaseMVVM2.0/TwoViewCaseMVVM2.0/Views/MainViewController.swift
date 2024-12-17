@@ -91,7 +91,7 @@ class MainViewController: UIViewController, UIScrollViewDelegate, UITableViewDat
             addTapGesture(to: gridCell, tag: indexPath.row)
             
             // Fetch Image
-            fetchImage(url: imageUrl) { image in gridCell.image.image = image }
+            viewModel.fetchImage(url: imageUrl) { image in gridCell.image.image = image }
         }
         
         if let listCell = cell as? MainCustomListCell {
@@ -102,7 +102,7 @@ class MainViewController: UIViewController, UIScrollViewDelegate, UITableViewDat
             addTapGesture(to: listCell, tag: indexPath.row)
             
             // Fetch Image
-            fetchImage(url: imageUrl) { image in listCell.image.image = image }
+            viewModel.fetchImage(url: imageUrl) { image in listCell.image.image = image }
         }
     }
     
@@ -112,16 +112,6 @@ class MainViewController: UIViewController, UIScrollViewDelegate, UITableViewDat
         tapGestureRecognizer.delegate = self
         view.addGestureRecognizer(tapGestureRecognizer)
         view.tag = tag
-    }
-    
-    func fetchImage(url: URL, completion: @escaping (UIImage?) -> Void) {
-        URLSession.shared.dataTask(with: url) { data, _, _ in
-            if let data = data, let image = UIImage(data: data) {
-                DispatchQueue.main.async {
-                    completion(image)
-                }
-            }
-        }.resume()
     }
     
     @objc func starButtonTapped(_ sender: UIButton) {
@@ -137,8 +127,14 @@ class MainViewController: UIViewController, UIScrollViewDelegate, UITableViewDat
             }
             UserDefaultsManager.shared.toggleLike(forProductId: prodID, userId: "user123")
             sender.setImage(UIImage(systemName: favoritedProductIDs.contains(prodID) ? "star.fill" : "star"), for: .normal)
+            if isTwoColumns {
+                tableView.reloadData()
+            } else {
+                collectionView.reloadData()
+            }
         }
     }
+
     
     @objc func handleTap(_ sender: UITapGestureRecognizer) {
         guard let cellView = sender.view else { return }
